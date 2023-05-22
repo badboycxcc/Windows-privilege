@@ -24,3 +24,6 @@ https://xz.aliyun.com/t/7776
 
 参考资料。
 https://3gstudent.github.io/backup-3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E4%B9%9D%E7%A7%8D%E6%9D%83%E9%99%90%E7%9A%84%E5%88%A9%E7%94%A8/
+
+https://www.cnblogs.com/Hekeats-L/p/16879325.html
+
